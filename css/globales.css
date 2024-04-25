@@ -1,0 +1,22 @@
+:root {
+    --oscuro-fuerte: hsl(0, 0%, 2%);
+    --oscuro-intermedio: hsl(240, 2%, 12%);
+    --oscuro-suave: hsl(0, 0%, 21%);
+    --azul-fuerte: rgb(1, 1, 136);
+    --oscuro-tenue: hsl(0, 0%, 62%);
+    --shadow-1: -4px 8px 24px hwb(0 0% 100% / 0.25);
+    --shadow-2: 0 16px 30px hsla(0, 0%, 0%, 0.25);
+    --shadow-3: 0 16px 40px hsla(0, 0%, 0%, 0.25);
+    --shadow-4: 0 25px 50px hsla(0, 0%, 0%, 0.15);
+    --shadow-5: 0 24px 80px hsla(0, 0%, 0%, 0.25);
+    --text-light: rgba(255,255,255,0.6);
+    --text-lighter: rgba(255,255,255,0.9);
+    --spacing-s: 4px;
+    --spacing-m: 8px;
+    --spacing-l: 12px;
+    --spacing-xl: 16px;
+    --spacing-xxl: 32px;
+    --width-container: 80%;
+  
+
+}

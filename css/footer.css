@@ -1,0 +1,27 @@
+.footer{
+    width: 100%;
+    background-color: var(--oscuro-intermedio);
+    height: 6rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-transform: uppercase;
+}
+
+.boton{
+background-color: var(--oscuro-fuerte);
+border: 2px solid var(--oscuro-suave);
+padding: 1rem;
+color: gold;
+border-radius: 5px;
+ font-family: 'Economica', sans-serif;
+ text-decoration: none;
+
+}
+
+.boton:hover{
+    background-color: var(--oscuro-intermedio);
+    border: 2px solid gold;
+    font-weight: 600;
+}
